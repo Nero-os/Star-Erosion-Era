@@ -1,0 +1,12 @@
+{
+  "type": "starerosionera:star_dust_drops",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "#starerosionera:elemental_mobs"
+      }
+    }
+  ]
+}
