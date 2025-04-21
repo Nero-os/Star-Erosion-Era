@@ -29,7 +29,7 @@ public class StarDustLootModifier extends LootModifier {
     protected ObjectArrayList<ItemStack> doApply(@NotNull ObjectArrayList<ItemStack> generatedLoot, LootContext context) {
         if (context.getParamOrNull(LootContextParams.THIS_ENTITY) instanceof Mob mob) {
             if (isElementalMob(mob)) {
-                if (context.getRandom().nextFloat() < 0.1f) {
+                if (context.getRandom().nextFloat() < 0.8f) {
                     generatedLoot.add(new ItemStack(ModItems.STAR_DUST.get()));
                 }
             }

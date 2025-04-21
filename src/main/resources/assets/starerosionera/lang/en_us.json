@@ -2,5 +2,9 @@
   "item.starerosionera.star_dust": "Star Dust",
   "item.starerosionera.star_dust.desc": "A fragment of celestial energy dropped by elemental creatures",
   "item.starerosionera.emblem": "Elemental Emblem",
-  "item.starerosionera.emblem.desc": "A badge that can harness the power of elements"
+  "item.starerosionera.emblem.desc": "A badge that can harness the power of elements",
+  "item.starerosionera.star_fragment": "Star Fragment",
+  "item.starerosionera.star_fragment.desc": "A piece of celestial palace",
+  "item.starerosionera.star_slab": "Star Palace Slab",
+  "item.starerosionera.star_slab.desc": "A sacred slab crafted from celestial fragments"
 }

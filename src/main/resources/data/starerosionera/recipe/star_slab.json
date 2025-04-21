@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "starerosionera:star_fragment" },
+    { "item": "starerosionera:star_fragment" },
+    { "item": "starerosionera:star_fragment" },
+    { "item": "starerosionera:star_fragment" }
+  ],
+  "result": {
+    "id": "starerosionera:star_slab",
+    "count": 1
+  }
+}
