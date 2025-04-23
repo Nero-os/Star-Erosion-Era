@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "starerosionera:item/domination_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "pulling": 1 },
+      "model": "minecraft:item/bow_pulling_0"
+    }
+  ]
+}

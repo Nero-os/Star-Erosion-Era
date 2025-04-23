@@ -2,8 +2,8 @@
   "parent": "minecraft:block/block",
   "texture_size":[64,64],
   "textures": {
-    "0": "starerosionera:block/blaze_core",
-    "particle": "starerosionera:block/blaze_core"
+    "0": "starerosionera:block/tide_core",
+    "particle": "starerosionera:block/tide_core"
   },
   "elements": [
     {

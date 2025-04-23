@@ -9,5 +9,15 @@
   "item.starerosionera.star_slab.desc": "由星宫碎片制成的神圣石板",
   "block.starerosionera.blaze_core": "烈焰晶核",
   "item.starerosionera.blaze_core": "烈焰晶核",
-  "block.starerosionera.blaze_core.desc": "烈焰元素晶脉的核心部分"
+  "block.starerosionera.blaze_core.desc": "烈焰元素晶脉的核心部分",
+  "block.starerosionera.tide_core": "潮汐晶核",
+  "item.starerosionera.tide_core": "潮汐晶核",
+  "block.starerosionera.storm_core": "风暴晶核",
+  "item.starerosionera.storm_core": "风暴晶核",
+  "block.starerosionera.storm_core.desc": "风暴元素晶脉的核心部分",
+  "block.starerosionera.earth_core": "大地晶核",
+  "item.starerosionera.earth_core": "大地晶核",
+  "block.starerosionera.earth_core.desc": "大地元素晶脉的核心部分",
+  "item.starerosionera.domination_sword": "支配之剑",
+  "item.starerosionera.domination_sword.desc": "能够摧毁一切敌人的终极武器"
 }

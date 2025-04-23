@@ -9,5 +9,15 @@
   "item.starerosionera.star_slab.desc": "A sacred slab crafted from celestial fragments",
   "block.starerosionera.blaze_core": "Blaze Core",
   "item.starerosionera.blaze_core": "Blaze Core",
-  "block.starerosionera.blaze_core.desc": "The core of blaze element veins"
+  "block.starerosionera.blaze_core.desc": "The core of blaze element veins",
+  "block.starerosionera.tide_core": "Tide Core",
+  "item.starerosionera.tide_core": "Tide Core",
+  "block.starerosionera.storm_core": "Storm Core",
+  "item.starerosionera.storm_core": "Storm Core",
+  "block.starerosionera.storm_core.desc": "The core of storm element veins",
+  "block.starerosionera.earth_core": "Earth Core",
+  "item.starerosionera.earth_core": "Earth Core",
+  "block.starerosionera.earth_core.desc": "The core of earth element veins",
+  "item.starerosionera.domination_sword": "Sword of Domination",
+  "item.starerosionera.domination_sword.desc": "The ultimate weapon that obliterates all enemies"
 }

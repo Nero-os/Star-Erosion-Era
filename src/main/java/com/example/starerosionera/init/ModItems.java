@@ -27,6 +27,17 @@ public class ModItems {
     public static final DeferredItem<Item> BLAZE_CORE = ITEMS.register("blaze_core",
             () -> new BlazeCoreItem(ModBlocks.BLAZE_CORE.get()));
 
+    public static final DeferredItem<Item> TIDE_CORE = ITEMS.register("tide_core",
+            () -> new TideCoreItem(ModBlocks.TIDE_CORE.get()));
+
+    public static final DeferredItem<Item> STORM_CORE = ITEMS.register("storm_core",
+            () -> new StormCoreItem(ModBlocks.STORM_CORE.get()));
+
+    public static final DeferredItem<Item> EARTH_CORE = ITEMS.register("earth_core",
+            () -> new EarthCoreItem(ModBlocks.EARTH_CORE.get()));
+
+    public static final DeferredItem<Item> DOMINATION_SWORD = ITEMS.register("domination_sword", DominationSwordItem::new);
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

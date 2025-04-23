@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    " Y "
+  ],
+  "key": {
+    "X": { "item": "minecraft:netherite_block" },
+    "Y": { "item": "minecraft:nether_star" }
+  },
+  "result": {
+    "id": "starerosionera:domination_sword"
+  }
+}
