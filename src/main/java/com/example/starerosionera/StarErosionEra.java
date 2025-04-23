@@ -1,5 +1,6 @@
 package com.example.starerosionera;
 
+import com.example.starerosionera.init.ModBlocks;
 import com.example.starerosionera.init.ModItems;
 import com.example.starerosionera.init.ModLootModifiers;
 import org.slf4j.Logger;
@@ -74,6 +75,7 @@ public class StarErosionEra
     public StarErosionEra(IEventBus modEventBus, ModContainer modContainer)
     {
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
         ModLootModifiers.register(modEventBus);
 
         // Register the commonSetup method for modloading

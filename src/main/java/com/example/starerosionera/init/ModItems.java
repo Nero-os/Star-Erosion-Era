@@ -1,10 +1,7 @@
 package com.example.starerosionera.init;
 
 import com.example.starerosionera.StarErosionEra;
-import com.example.starerosionera.items.StarSlabItem;
-import com.example.starerosionera.items.StarFragmentItem;
-import com.example.starerosionera.items.EmblemItem;
-import com.example.starerosionera.items.StarDustItem;
+import com.example.starerosionera.items.*;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -26,6 +23,9 @@ public class ModItems {
 
     public static final DeferredItem<Item> STAR_SLAB = ITEMS.register("star_slab",
             StarSlabItem::new);
+
+    public static final DeferredItem<Item> BLAZE_CORE = ITEMS.register("blaze_core",
+            () -> new BlazeCoreItem(ModBlocks.BLAZE_CORE.get()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

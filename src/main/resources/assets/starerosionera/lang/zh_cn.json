@@ -6,5 +6,8 @@
   "item.starerosionera.star_fragment": "星宫碎片",
   "item.starerosionera.star_fragment.desc": "来自天界宫殿的碎片",
   "item.starerosionera.star_slab": "星宫石板",
-  "item.starerosionera.star_slab.desc": "由星宫碎片制成的神圣石板"
+  "item.starerosionera.star_slab.desc": "由星宫碎片制成的神圣石板",
+  "block.starerosionera.blaze_core": "烈焰晶核",
+  "item.starerosionera.blaze_core": "烈焰晶核",
+  "block.starerosionera.blaze_core.desc": "烈焰元素晶脉的核心部分"
 }

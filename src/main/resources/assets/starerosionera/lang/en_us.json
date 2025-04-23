@@ -6,5 +6,8 @@
   "item.starerosionera.star_fragment": "Star Fragment",
   "item.starerosionera.star_fragment.desc": "A piece of celestial palace",
   "item.starerosionera.star_slab": "Star Palace Slab",
-  "item.starerosionera.star_slab.desc": "A sacred slab crafted from celestial fragments"
+  "item.starerosionera.star_slab.desc": "A sacred slab crafted from celestial fragments",
+  "block.starerosionera.blaze_core": "Blaze Core",
+  "item.starerosionera.blaze_core": "Blaze Core",
+  "block.starerosionera.blaze_core.desc": "The core of blaze element veins"
 }
